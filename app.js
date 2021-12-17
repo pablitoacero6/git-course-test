@@ -1,1 +1,1 @@
-console.log("Hello world");
+console.log("Punto 6 parcial ingenieria");
